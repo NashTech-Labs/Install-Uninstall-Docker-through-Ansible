@@ -2,7 +2,7 @@
  
 ## Overview
  
-This Ansible playbook is designed to install Docker on a target server.
+This Ansible playbook is designed to install Docker on a target server or another for uninstalling the Docker on the target server.
  
 ## Requirements
  
